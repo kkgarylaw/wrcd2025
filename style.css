@@ -1,0 +1,19 @@
+#scanner-container {
+    width: 320px;
+    margin: 20px auto;
+    position: relative;
+}
+
+#scanner-video {
+    width: 100%;
+}
+
+#scan-count, #voucher {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#voucher-image {
+    max-width: 80%; /* Adjust as needed */
+    height: auto;
+}
